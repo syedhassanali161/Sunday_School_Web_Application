@@ -1,9 +1,7 @@
 # Sunday_School_Web_Application
 A web application created for the local Sunday School that allows the administration of the school as well as for students to view their marks, attendance, and announcements made by the staff.
 
-THIS APPLICATION IS NOT CURRENTLY LIVE!
-
-In order to run this application go through the following steps:
+The following steps can be used to run this application loaclly:
 1) Dowload XAMPP from: https://www.apachefriends.org/download.html
 2) Copy the "Sunday_School_Website" folder found in "Sunday_School_Website_finalversion/code"
 3) Find the "XAMPP" folder wherever you installed it and go into the "htdocs" folder
